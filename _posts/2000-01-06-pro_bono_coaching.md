@@ -48,7 +48,7 @@ Kerro hakemuksessasi: Kuka sinä olet? Mihin tarvitset coachingia? Miten voisin 
 </p>
 
 <p>
-Lähetä hakemuksesi viimeistään perjantaina 10.4. sähköpostilla <a href="mailto:hedy@kapri.fi">hedy@hedykapri.fi</a> tai täytä <a href="https://hedykapri.fi/#otayhteytta">yhteydenottolomake</a>. Kirjoita otsikoksi Haku: Pro bono -coaching. Ilmoitan valitulle henkilökohtaisesti viimeistään 14.4.2020.
+Lähetä hakemuksesi viimeistään perjantaina 10.4. sähköpostilla <a href="mailto:hedy@kapri.fi">hedy@hedykapri.fi</a> tai täytä <a href="https://hedykapri.fi/#otayhteytta">yhteydenottolomake</a>. Kirjoita otsikoksi Haku: Pro bono -coaching. Ilmoitan valituille henkilökohtaisesti viimeistään 14.4.2020.
 </p>
 
 </div>
