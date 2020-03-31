@@ -6,8 +6,7 @@ color: dark
 menu: false
 excluded: true
 ---
-
-<div class="toplogo"></div>
+<div class="toplogo" style="cursor:pointer" onclick="javascript:document.location='https://hedykapri.fi/'"></div>
 
 ## Pro bono -coaching
 
