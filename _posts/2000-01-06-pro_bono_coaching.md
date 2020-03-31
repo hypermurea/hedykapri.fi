@@ -18,45 +18,38 @@ Haluankin tarjota mahdollisuuden coachingiin sitä tarvitsevalle.
 
 <p>
 	<div class="apply_button">
-		<span>HAKU AUKEAA SYKSYLLÄ 2019</span>
+		<span><a href="#miten_haen_mukaan" style="color:#ffffff; text-decoration: none; :hover { text-decoration: none;}">HAE MUKAAN NYT</a></span>
 	</div>
 </p>
 
 <p>
-Viime syksynä sain kunnian olla mukana International Coach Federationin (ICF) ja SPR:n yhteisessä pro bono -coachingprojektissa, jossa coachasin yhtä SPR:n piirin puheenjohtajaa. Koin valtavan merkitykselliseksi ja tärkeäksi, että sain olla auttamassa arvokasta vapaaehtoistyötä tekevää
-henkilöä onnistumaan omassa työssään. Kokemuksen innoittamana päätinkin jatkaa hyvän tekemistä ottamalla yhden pro bono -asiakkaan joka kevät ja syksy.
+Toissa syksynä sain ilokseni olla mukana International Coach Federationin (ICF) ja SPR:n yhteisessä pro bono -coachingprojektissa, jossa coachasin yhtä SPR:n piirin puheenjohtajaa. Koin valtavan merkitykselliseksi ja tärkeäksi, että sain olla auttamassa arvokasta vapaaehtoistyötä tekevää henkilöä onnistumaan omassa työssään. Kokemuksen innoittamana olen säännöllisesti jatkanut hyvän tekemistä tarjoamalla coachingia veloituksetta parille henkilölle vuosittain.
 </p>
+<a id="miten_haen_mukaan"></a>
 
 <p>
 <b>Mitä?</b>
 Haetko uutta suuntaa urallesi tai haluatko kirkastaa tavoitteitasi? Haluatko kehittyä johtajana, vuorovaikuttajana tai yrittäjänä? Kaipaatko vastauksia kysymyksiin ”kuka minä olen”, ”mitkä ovat vahvuuteni” tai ”mitä minä todella haluan”? Olipa tavoitteesi mikä tahansa, minä autan sinua
-löytämään olennaisen äärelle. Jotta onnistut.
+löytämään olennaisen. Jotta onnistut.
 </p>
 
 <p>
-Tarjoan mahdollisuuden veloituksettomaan henkilökohtaiseen valmennukseen, johon kuuluu 5 coachingtapaamista, välitehtäviä ja etätuki sähköpostitse koko prosessin ajan. Tapaamiset kasvokkain järjestetään toimistollani Helsingin Munkkivuoressa. Coachingkeskustelut voidaan toteuttaa myös virtuaalisesti (esim. skype tai zoom). Valmennus viedään päätökseen elokuun
-alkuun mennessä.
+Tarjoan kahdelle henkilölle mahdollisuuden veloituksettomaan henkilökohtaiseen valmennukseen, johon kuuluu 3 coachingtapaamista, välitehtäviä ja tuki sähköpostitse koko prosessin ajan. Tapaamiset järjestetään tällä hetkellä virtuaalisesti (esim. skype tai zoom).
 </p>
 
 <p>
 <b>Kenelle?</b>
-Tämä mahdollisuus sopii henkilölle, joka aidosti kokee hyötyvänsä henkilökohtaisesta valmennuksesta juuri nyt, on motivoitunut kehittymään ja haluaa sitoutua coachingprosessiin touko-elokuun välillä. Coachattavan iällä, ammatilla, asemalla tms. ei ole merkitystä.
+Tämä mahdollisuus sopii sinulle, jos aidosti koet hyötyväsi henkilökohtaisesta valmennuksesta juuri nyt ja olet motivoitunut kehittymään. Iälläsi, ammatillasi, asemallasi tms. ei ole merkitystä.
 Huomioin valinnassa coachingin vaikuttavuuden: mitä enemmän henkilön onnistuminen työssään vaikuttaa muihin ihmisiin ja/tai hänen ympäristöönsä, eli mitä laajemmalle coachingin positiiviset tulokset kantavat, sitä parempi.
 </p>
 
 <p id="hae_pro_bono">
 <b>Miten haen mukaan?</b>
-Kerro hakemuksessasi: Kuka sinä olet? Miksi juuri sinut tulisi valita? Mihin tarvitset coachingia? Miten voisin auttaa sinua? Onko sinulla aikaisempaa kokemusta coachingista? Koska, millaista?
-Miten coaching onnistuisi sinulle aikataulullisesti elokuun alkuun mennessä?
+Kerro hakemuksessasi: Kuka sinä olet? Mihin tarvitset coachingia? Miten voisin auttaa sinua? Onko sinulla aikaisempaa kokemusta coachingista? Millaista? Miksi juuri sinut tulisi valita?
 </p>
 
 <p>
-Tarkemmat hakuohjeet julkaistaan syksyllä 2019.
+Lähetä hakemuksesi viimeistään perjantaina 10.4. sähköpostilla <a href="mailto:hedy@kapri.fi">hedy@hedykapri.fi</a> tai täytä <a href="https://hedykapri.fi/#otayhteytta">yhteydenottolomake</a>. Kirjoita otsikoksi Haku: Pro bono -coaching. Ilmoitan valitulle henkilökohtaisesti viimeistään 14.4.2020.
 </p>
-<!--
-<p>
-Lähetä hakemuksesi viimeistään maanantaina 13.5. sähköpostilla <a href="mailto:hedy@kapri.fi">hedy@hedykapri.fi</a> tai täytä <a href="#otayhteytta">yhteydenottolomake</a>. Kirjoita otsikoksi Haku: Pro bono - coaching. Ilmoitan valitulle henkilökohtaisesti viimeistään 15.5.2019.
-</p>
--->
 
 </div>
