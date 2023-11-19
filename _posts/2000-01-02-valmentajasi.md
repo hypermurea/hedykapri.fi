@@ -24,7 +24,7 @@ Erityisosaamistani on kvalitatiivisten tutkimusmenetelmien hyödyntäminen valme
 <a id="collapse-valmentajasi" class="collapse-link">X Sulje</a><br/>
 <div class="nosto only-for-desktop">
   <div style="width: 40%; height: 100%; float: left; display: table-cell;">
-    <img src="img/Hedy_Kapri_potretti.jpg" style="width:80%; height: auto; vertical-align: bottom"/>
+    <img src="img/hedy-17-scaled.jpg" style="width:80%; height: auto; vertical-align: bottom"/>
   </div>
   <div class="nosto-kuvalla">
   Toimin asiakkaitteni kumppanina niin pienissä kuin suurissakin työhön ja uraan liittyvissä
@@ -34,7 +34,7 @@ Erityisosaamistani on kvalitatiivisten tutkimusmenetelmien hyödyntäminen valme
   </div>
 </div>
 <div class="nosto only-for-mobile">
-  <img src="img/Hedy_Kapri_potretti.jpg" style="width:100%; height: auto; margin-bottom: 60px;"/>
+  <img src="img/hedy-17-scaled.jpg" style="width:100%; height: auto; margin-bottom: 60px;"/>
   <div>
 Toimin asiakkaitteni kumppanina niin pienissä kuin suurissakin työhön ja uraan liittyvissä
 pohdinnoissa ja tavoitteissa.

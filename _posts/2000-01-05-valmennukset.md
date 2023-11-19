@@ -2,7 +2,7 @@
 title: "Valmennukset"
 bg: grey
 color: dark
-bottom-image: img/hk_bigpicture_01.jpg
+bottom-image: img/hedy-26-scaled.jpg
 menu: true
 kuosi: true
 ---
